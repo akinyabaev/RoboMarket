@@ -1,0 +1,4 @@
+2021-06-22 14:24:43,063 | root | INFO | Current req_count = 3
+2021-06-22 14:24:43,534 | root | INFO | Successful insert into posts 3 row
+2021-06-22 14:24:43,541 | root | INFO | Successful insert into likes 3 row
+2021-06-22 14:24:43,542 | root | INFO | Became req_count = 4
