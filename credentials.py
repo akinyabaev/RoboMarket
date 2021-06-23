@@ -1,0 +1,3 @@
+access_token = 'EAAGc799oZCPwBAEf3Fi6jUNuHx0sC7xLnaRr8z8wv2MyR1QW94PSQNoecQ0QHVyOdeDmujAbnAXOqjLjCrEZBWNebeKjjlsip' \
+               '7i1lDjHGvrPLKaYZBZBkGFQi32NZAkNK13nqxNq08OqZC2tgHZCkHalmQKVsNBgIyiNQnL2BSDowZDZD'
+user = '106590601667714'
