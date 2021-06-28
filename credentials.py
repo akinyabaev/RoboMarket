@@ -1,3 +1,3 @@
-access_token = 'EAAGc799oZCPwBAEf3Fi6jUNuHx0sC7xLnaRr8z8wv2MyR1QW94PSQNoecQ0QHVyOdeDmujAbnAXOqjLjCrEZBWNebeKjjlsip' \
-               '7i1lDjHGvrPLKaYZBZBkGFQi32NZAkNK13nqxNq08OqZC2tgHZCkHalmQKVsNBgIyiNQnL2BSDowZDZD'
+access_token = 'EAAGc799oZCPwBAG0jaLUXwtEw5nuIfy09Nvg43HYeeB27z9itzMSFS85MGbSRdHtb5I8ezS4AoCRwjtXF7iUsxDHWffA3sjuVvq' \
+               'D8oUikEbjZBHpNzsmDsRSAIWEOeVh913T49fEkfJU8Ot5CvXhhHbgYL0f8UOxPZCC0kxXwZDZD'
 user = '106590601667714'
