@@ -70,7 +70,6 @@ all_fields = ','.join(all_fields)
 
 t = datetime.datetime.now().replace(minute=0, second=0)
 date = t.strftime("%Y-%m-%d %H:%M:%S")
-req_count = check_requests_count(date)
 
 usage = check_requests_count()
 cooling_time(usage[0])
